@@ -1,4 +1,4 @@
-# Madhwan-7
+# Madhwan7
 <!-- PROFILE BANNER - Dark Professional -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:121212,100:1c1c1c&height=220&section=header&text=Madhwan%20Panjwani&fontSize=42&fontColor=00FFFF" />
